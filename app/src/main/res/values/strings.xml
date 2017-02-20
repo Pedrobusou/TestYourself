@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name" translatable="false">TestYourself</string>
+    <string name="results">Results</string>
+    <string name="rightAnswers">- Right answers:</string>
+    <string name="rate">- Well answer rate:</string>
+    <string name="mark">- Mark:</string>
+    <string name="a" translatable="false">A)</string>
+    <string name="b" translatable="false">B)</string>
+    <string name="c" translatable="false">C)</string>
+    <string name="testYourself" translatable="false">Test Yourself</string>
+    <string name="startTest">Start Test</string>
+    <string name="createTest">Create Test</string>
+    <string name="optionB">\ Option B\ </string>
+    <string name="optionC">\ Option C\ </string>
+    <string name="optionA">\ Option A\ </string>
+    <string name="nOptions">Nº of options:</string>
+    <string name="introQuestHint">\ Introduce your question\ </string>
+    <string name="optionD">\ Option D\ </string>
+    <string name="optionE">\ Option E\ </string>
+    <string name="optionF">\ Option F\ </string>
+    <string name="optionG">\ Option G\ </string>
+    <string name="optionH">\ Option H\ </string>
+    <string name="saveAndFinish">Save and finish</string>
+    <string name="nextQuestion">Next question</string>
+    <string name="subtitle">Choose a test</string>
+    <string name="question">Question</string>
+    <string name="d" translatable="false">D)</string>
+    <string name="e" translatable="false">E)</string>
+    <string name="f" translatable="false">F)</string>
+    <string name="g" translatable="false">G)</string>
+    <string name="h" translatable="false">H)</string>
+    <string name="editTest">Edit Test</string>
+    <string name="deleteTest">Delete test</string>
+    <string name="chooseCorrectAnswer">Choose the correct answer</string>
+    <string name="writeQuestion">Write a question</string>
+    <string name="fillTheFields">Fill all the fields</string>
+    <string name="writePossibleOptions">Write possible options</string>
+    <string name="renameTest">Rename test</string>
+    <string name="deleteTestConfirmation">Do you want to delete the test \"</string>
+
+    <!--AlertDialog-->
+        <string name="writeAName">Write a name</string>
+        <string name="nameAlreadyTaken">Name already taken</string>
+        <string name="introduceName">Introduce a name for the test</string>
+        <string name="cancel">Cancel</string>
+    <string name="cancelRename">Keep the name</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rightAnswers">- Aciertos:</string>
+    <string name="createTest">Crear Test</string>
+    <string name="introQuestHint">\ Introduce una pregunta\</string>
+    <string name="nOptions">Nº de opciones:</string>
+    <string name="nextQuestion">Sig. pregunta</string>
+    <string name="mark">- Nota:</string>
+    <string name="optionA">\ Opción A\ </string>
+    <string name="optionB">\ Opción B\ </string>
+    <string name="optionC">\ Opción C\ </string>
+    <string name="optionD">\ Opción D\ </string>
+    <string name="optionE">\ Opción E\ </string>
+    <string name="optionF">\ Opción F\ </string>
+    <string name="optionG">\ Opción G\ </string>
+    <string name="optionH">\ Opción H\ </string>
+    <string name="rate">- Ratio de aciertos:</string>
+    <string name="results">Resultados</string>
+    <string name="saveAndFinish">Guardar y salir</string>
+    <string name="startTest">Comenzar test</string>
+    <string name="question">Pregunta</string>
+    <string name="editTest">Editar Test</string>
+    <string name="deleteTest">Borrar Test</string>
+    <string name="subtitle">Selecciona un test</string>
+    <string name="cancel">Cancelar</string>
+    <string name="chooseCorrectAnswer">Marca la respuesta correcta</string>
+    <string name="fillTheFields">Rellena los campos</string>
+    <string name="introduceName">Introduce un nombre para el test</string>
+    <string name="nameAlreadyTaken">Ese nombre ya existe</string>
+    <string name="writeAName">Escribe un nombre</string>
+    <string name="writePossibleOptions">Escribe las posibles opciones</string>
+    <string name="writeQuestion">Escribe la pregunta</string>
+    <string name="renameTest">Renombra el test</string>
+    <string name="cancelRename">Mantener nombre</string>
+    <string name="deleteTestConfirmation">Desea borrar el test \"</string>
+</resources>
